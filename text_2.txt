@@ -1,0 +1,2 @@
+this is a text created with my notepad project file in java
+
